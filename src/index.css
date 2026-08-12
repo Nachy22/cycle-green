@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,700;0,800;1,700&display=swap');
+
+:root {
+  /* CycleGreen palette */
+  --color-canopy: #1b4332;
+  --color-bark: #7c5c3e;
+  --color-moss: #e8efe6;
+  font-family: 'DM Sans', Arial, sans-serif;
+  color: #062b1b;
+  background: #fff;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+* { box-sizing: border-box; }
+body { margin: 0; min-width: 320px; }
+button, input, select, textarea { font: inherit; }
+#root { min-height: 100vh; }
